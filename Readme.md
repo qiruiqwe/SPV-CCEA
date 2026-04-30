@@ -1,7 +1,7 @@
 # Electric Vehicle Charging Infrastructure Planning
 
 This repository contains the source code and datasets for the manuscript titled:
-**"Survival Probability Vector-Guided Evolutionary Algorithm for Large-Scale Electric Vehicle Charging Infrastructure Planning"**.
+**"Survival Probability Vector-Guided Evolutionary Algorithm for Large-Scale Charging Infrastructure Planning"**.
 
 ## Overview
 
